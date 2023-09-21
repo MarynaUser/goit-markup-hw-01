@@ -59,6 +59,7 @@ header {
 
 .contacts-info .contacts-text:hover {
     color: #404bbf;
+    
 }
 
 .contacts-info .contacts-text:focus {
@@ -124,7 +125,16 @@ header {
 }
 
 .next-title-ourteam {
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.photo-color {
+    background-color: #FFFFFF;
 }
 
 .title-block {
@@ -133,6 +143,14 @@ header {
     line-height: 1.2;
     font-weight: 500;
     letter-spacing: 0.02em;
+} 
+
+.next-title-ourportfolio {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .description {
